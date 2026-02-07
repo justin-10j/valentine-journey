@@ -114,31 +114,31 @@ const days = [
 
   { title: "💍 Propose Day", mode: "shop", item: "ring",
     arrive: "One more stop… for something meaningful.",
-    msg: "Not a proposal… but a promise in my heart.\nI choose you — again and again.\nWill you marry me?" },
+    msg: "Not a proposal… but a promise in my heart.\nI choose you — again and again. Ring pinne pandee oru weakness a... \n Will You Marry me?"},
 
   { title: "🍫 Chocolate Day", mode: "shop", item: "chocolate",
     arrive: "A sweet little surprise… just for your smile.",
-    msg: "If I could, I’d hand this to you in person.\nTill then — sweetness from me to you." },
+    msg: "If I could, I’d hand this to you in person.\nTill then — sweetness from me to you.\n Dairy Milk a kazhichoo." },
 
   { title: "🧸 Teddy Day", mode: "shop", item: "teddy",
     arrive: "Something soft… for the days you miss me.",
-    msg: "So when you feel lonely,\nthis teddy can hold you for me." },
+    msg: "So when you feel lonely,\nthis teddy can hold you for me.\n Orma ondallo pand thanna kujn bear, ippazhum veetil ond." },
 
   { title: "🤝 Promise Day", mode: "shop", item: "note",
     arrive: "One promise… written gently, meant truly.",
-    msg: "I promise to stand with you —\nin your ups, your downs, your everything." },
+    msg: "I promise to stand with you —\nin your ups, your downs, your everything.\n\nWhen you feel the crowdest places as silent, dhoore olla velicham njan alla enkilum, aduth olla erutt njan aayirikum. Variety alle hehe. ente ponn ing ponnekk njan nokkikolam." },
 
   { title: "🤗 Hug Day", mode: "shop", item: "heart",
     arrive: "Close your eyes… imagine I’m right there.",
-    msg: "This is my hug — warm, safe, and real.\nHold it whenever you miss me." },
+    msg: "This is my hug — warm, safe, and real.\nHold it whenever you miss me and always.\n \n mmhh mhh ketti pidikk pettenn...chubby aakanam enn illa, ninte hug aaayalum enik ok aa, bha bha petten..." },
 
   { title: "💋 Kiss Day", mode: "hill", item: "kiss",
     arrive: "We made it… the hilltop.\nJust you, me, and this calm breeze.",
-    msg: "A soft kiss…\nfor everything we built so far. 💋" },
+    msg: "A soft kiss…\nfor everything we built so far.\nMwahhhhhhhhhhhh(kurach hard aayi). Innenkilum thirich therumodi patty..?" },
 
   { title: "❤️ Valentine’s Day", mode: "valentine", item: "video",
     arrive: "I stayed here… from day to night.\nThinking how far we’ve come.",
-    msg: "Look up… 💫\nThis is my heart, speaking to you. As you always remember, you're my first love.\nNo matter what happens I'll be there with you.\nI love you a lot. Waiting for our JP Villa.\nSide chick aayi enkilum pariganikku." }
+    msg: "Look up… 💫\nThis is my heart, speaking to you. As you always remeber, you're my first love. No matter what happens I'll be there with in you. I loves you a lot. Waiting for our JP Villa. \n Side chick aayi enkilum pariganikk." }
 ];
 
 const STORAGE_KEY = "vj_progress_v3_toronto";
